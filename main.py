@@ -1,16 +1,3 @@
-"""
-import cryptocode
-str_encoded = cryptocode.encrypt("I am oJÖOBREvvögufeo76gg6of37wgo67f3wg6o73fwo67gzo7gfq3iuRWGjviörwuivörcsviuöföiukay", "püth")
-## And then to decode it
-key = input("enter a key: ")
-str_decoded = cryptocode.decrypt(str_encoded, key)
-if str_decoded:
-    print(str_decoded)
-else:
-    print("wrong key")
-"""
-#!/usr/bin/env python3
-
 import sys, random, os, cryptocode
 from PyQt5.QtCore import *
 from PyQt5.QtGui import *
