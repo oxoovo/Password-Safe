@@ -13,6 +13,12 @@ With Password-Safe you can save all your passwords. The passwords are stored enc
 
 <h1>📱install on Android</h1>
 
-<a href="https://github.com/oxoovo/Password-Safe/wiki/Install-on-Android">Here<a> you can see how to install Password-Safe on Android.
+<a href="https://github.com/oxoovo/Password-Safe/wiki/Install-on-Android">Here</a> you can see how to install Password-Safe on Android.
+
+<h1>💻install on Windows</h1>
+
+```
+
+```
 
 </div>
