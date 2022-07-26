@@ -15,10 +15,16 @@ With Password-Safe you can save all your passwords. The passwords are stored enc
 
 <a href="https://github.com/oxoovo/Password-Safe/wiki/Install-on-Android">Here</a> you can see how to install Password-Safe on Android.
 
-<h1>💻install on Windows</h1>
+<h1>💻install on Windows/Linux</h1>
+<div align="left">
 
 ```
-
+  $ pip install PyQt5
+  $ pip install cryptocode
+  $ git clone https://github.com/oxoovo/Password-Safe.git
+  $ cd Password-Safe
+  $ python main.py
 ```
 
+</div>
 </div>
