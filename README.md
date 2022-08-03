@@ -19,11 +19,11 @@ With Password-Safe you can save all your passwords. The passwords are stored enc
 <div align="left">
 
 ```
-  $ pip install PyQt5
-  $ pip install cryptocode
-  $ git clone https://github.com/oxoovo/Password-Safe.git
-  $ cd Password-Safe
-  $ python main.py
+  pip install PyQt5
+  pip install cryptocode
+  git clone https://github.com/oxoovo/Password-Safe.git
+  cd Password-Safe
+  python main.py
 ```
 
 </div>
