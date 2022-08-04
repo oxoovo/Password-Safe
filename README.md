@@ -27,4 +27,9 @@ python main.py
 ```
 
 </div>
+
+<h1>Icons</h1>
+
+Icons from <a href="https://phosphoricons.com/">Phosphor Icons <img src="https://raw.githubusercontent.com/phosphor-icons/phosphor-icons/master/meta/phosphor-mark-tight-yellow.png" width=50 href="https://phosphoricons.com/"></a>
+
 </div>
