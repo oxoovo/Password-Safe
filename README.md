@@ -11,19 +11,19 @@ With Password-Safe you can save all your passwords. The passwords are stored enc
 <img src="https://raw.githubusercontent.com/oxoovo/Password-Safe/main/screenshots/Screenshot2.jpg">
 <img src="https://raw.githubusercontent.com/oxoovo/Password-Safe/main/screenshots/Screenshot3.jpg">
 
-<h1>📱install on Android</h1>
+<h1>📱run on Android</h1>
 
-<a href="https://github.com/oxoovo/Password-Safe/wiki/Install-on-Android">Here</a> you can see how to install Password-Safe on Android.
+<a href="https://github.com/oxoovo/Password-Safe/wiki/Install-on-Android">Here</a> you can see how to run Password-Safe on Android.
 
-<h1>💻install on Windows/Linux</h1>
+<h1>💻run on Windows/Linux</h1>
 <div align="left">
 
 ```
-  pip install PyQt5
-  pip install cryptocode
-  git clone https://github.com/oxoovo/Password-Safe.git
-  cd Password-Safe
-  python main.py
+pip install PyQt5
+pip install cryptocode
+git clone https://github.com/oxoovo/Password-Safe.git
+cd Password-Safe
+python main.py
 ```
 
 </div>
