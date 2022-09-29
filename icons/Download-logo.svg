@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" fill="#00ccff" viewBox="0 0 256 356">
+<rect width="256" height="256" fill="none">
+</rect>
+<line x1="192" y1="200" x2="192" y2="224" fill="none" stroke="#00aaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+</line>
+<line x1="64" y1="200" x2="64" y2="224" fill="none" stroke="#00aaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+</line>
+<rect x="32" y="48" width="192" height="152" rx="8" fill="#00ffff" stroke="#00aaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+</rect>
+<circle cx="148" cy="128" r="32" fill="#00ffff" stroke="#00aaff" stroke-linecap="round" stroke-linejoin="round" stroke-width="24">
+</circle>
+<text x="0" y="300" font-size="20">𝔻𝕠𝕨𝕟𝕝𝕠𝕒𝕕 ℙ𝕒𝕤𝕤𝕨𝕠𝕣𝕕-𝕊𝕒𝕗𝕖!</text>
+</svg>
